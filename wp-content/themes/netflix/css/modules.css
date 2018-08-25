@@ -1,0 +1,16 @@
+.row-flex {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  justify-content: center;
+  -webkit-justify-content: center; }
+
+.small-logo {
+  width: 150px;
+  height: auto;
+  display: block;
+  margin: 0 auto 0 auto; }
+
+/*# sourceMappingURL=modules.css.map */
