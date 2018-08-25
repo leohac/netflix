@@ -1,0 +1,13 @@
+@import 'modules';
+@import 'partials';
+
+
+
+/* Estrutura */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  transition: 500ms;
+}
